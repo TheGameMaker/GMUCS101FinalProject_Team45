@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/clark/AndroidStudioProjects/CS101Final/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f93eca1b561e87e546fee984ffa254a3e9cc1926">
+        <dex dex="/home/clark/AndroidStudioProjects/CS101Final/app/build/intermediates/pre-dexed/debug/instant-run_58a1e1dd1e645591b6e71b4115d008d61ad417df.jar" />
+    </item>
+    <item
+        jar="/home/clark/AndroidStudioProjects/CS101Final/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/clark/AndroidStudioProjects/CS101Final/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_dd3095d290c8d82946c7a027189dfa919864a218.jar" />
+    </item>
+    <item
+        jar="/home/clark/AndroidStudioProjects/CS101Final/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/clark/AndroidStudioProjects/CS101Final/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_41b3daa3ffaa7b3d00ccca168d1135cfb11fcffe.jar" />
+    </item>
+    <item
+        jar="/home/clark/AndroidStudioProjects/CS101Final/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/clark/AndroidStudioProjects/CS101Final/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_cc72bf1a95bd2f491721a7b36ff2c09c925002dd.jar" />
+    </item>
+    <item
+        jar="/home/clark/AndroidStudioProjects/CS101Final/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9a5253cc21def3055541beee825580f350303eb9">
+        <dex dex="/home/clark/AndroidStudioProjects/CS101Final/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_c57dccf26da0ab2ec1eb553bf563d657026a5546.jar" />
+    </item>
+    <item
+        jar="/home/clark/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/clark/AndroidStudioProjects/CS101Final/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_346e98ba2ec44a516494c68b3da69ea044a8ed65.jar" />
+    </item>
+    <item
+        jar="/home/clark/AndroidStudioProjects/CS101Final/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/clark/AndroidStudioProjects/CS101Final/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_d816f1f032cbe7c181f68bbe33094904e281f8d1.jar" />
+    </item>
+    <item
+        jar="/home/clark/AndroidStudioProjects/CS101Final/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/clark/AndroidStudioProjects/CS101Final/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_372ea9e624785049c4ba350d08a680eb06492741.jar" />
+    </item>
+
+</items>
